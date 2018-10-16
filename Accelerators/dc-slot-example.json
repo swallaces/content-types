@@ -1,0 +1,49 @@
+{
+    "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
+    "allOf": [
+        {
+            "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content"
+        }
+    ],
+    "id": "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/dc-slot-example.json",
+    "title": "dc-slot-example",
+    "description": "dc-slot-example description",
+    "type": "object",
+    "properties": {
+        "_environment": {
+            "type": "object",
+            "properties": {
+                "sfcc_slot": {
+                    "$ref": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc.json#/definitions/sfcc_slot"
+                },
+                "sfcc_category_slot": {
+                    "$ref": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc.json#/definitions/sfcc_category_slot"
+                }
+            }
+        },
+        "content": {
+            "allOf": [
+                {
+                    "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content-link"
+                },
+                {
+                    "properties": {
+                        "contentType": {
+                            "title": "Page Content",
+                            "enum": [
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/banner.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/slider.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/video.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/splitBlock.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardList.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalBlock.json"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
