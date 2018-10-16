@@ -22,7 +22,7 @@
       "description": "",
       "allOf": [
         {
-          "$ref": "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/snippet.json"
+          "$ref": "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/snippet.json"
         }
       ]
     },
@@ -45,12 +45,12 @@
               "contentType": {
                 "title": "Content",
                 "enum": [
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/banner.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/image.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/video.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/text.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/cardlist.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/blog.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/banner.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/video.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/blog.json"
                 ]
               }
             }
