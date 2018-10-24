@@ -39,7 +39,11 @@
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardList.json",
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalBlock.json",
+<<<<<<< HEAD
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/homepage.json"
+=======
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/promoBanner.json"
+>>>>>>> 3ca502b5ee39fa4ffa7f27da368637ea1e3ed609
                             ]
                         }
                     }
