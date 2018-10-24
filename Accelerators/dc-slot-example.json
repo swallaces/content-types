@@ -37,10 +37,11 @@
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json",
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/splitblock.json",
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
-                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardList.json",
-                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalBlock.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalblock.json",
                                 "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/homepage.json",
-                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/promoBanner.json"
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/promobanner.json",
+                                "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/blog.json"
                             ]
                         }
                     }
