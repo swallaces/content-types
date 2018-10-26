@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/swallaces/content-types/master/Acceleratorss/cardlist.json",
+  "id": "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json",
   "title": "Card List Accelerator",
   "description": "Card List Accelerator",
   "allOf": [
@@ -39,7 +39,7 @@
               "contentType": {
                 "title": "Card Content",
                 "enum": [
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/card.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/card.json"
                 ]
               }
             }

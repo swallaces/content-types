@@ -25,6 +25,7 @@
               "contentType": {
                 "title": "Content Types",
                 "enum": [
+
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/slider.json",
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/promobanner.json",
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/video.json",

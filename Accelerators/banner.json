@@ -36,7 +36,7 @@
               "contentType": {
                 "title": "image",
                 "enum": [
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/image.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json"
                 ]
               }
             }
@@ -73,7 +73,7 @@
       "type": "object",
       "allOf": [
         {
-          "$ref": "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/link.json"
+          "$ref":"https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/link.json"
         }
       ]
     },
