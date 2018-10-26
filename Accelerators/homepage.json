@@ -32,7 +32,9 @@
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/externalblock.json",
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/splitblock.json",
                   "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/cardlist.json",
-                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/image.json"
+                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/image.json",
+                  "https://dev-solutions.s3.amazonaws.com/DynamicContentTypes/Accelerators/banner.json"
+                  
                 ]
               }
             }
