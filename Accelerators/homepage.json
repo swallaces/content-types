@@ -25,14 +25,15 @@
               "contentType": {
                 "title": "Content Types",
                 "enum": [
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/banner.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/slider.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/promobanner.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/Accelerators/video.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/Accelerators/text.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/Accelerators/externalblock.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/video.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalblock.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/splitblock.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
                 ]
               }
             }
