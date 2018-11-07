@@ -33,8 +33,7 @@
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/externalblock.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/splitblock.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json"
                 ]
               }
             }
