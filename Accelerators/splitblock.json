@@ -28,7 +28,8 @@
                 "enum": [
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/image.json",
                   "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/video.json",
-                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json"
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/text.json",
+                  "https://raw.githubusercontent.com/swallaces/content-types/master/Accelerators/cardlist.json"
                 ]
               }
             }
